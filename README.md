@@ -4,4 +4,5 @@ npm install redux-logger
 
 npm install --save @redux-devtools/extension
 
+npm install axios redux-thunk
 # redux-react-redux-cdevolution
